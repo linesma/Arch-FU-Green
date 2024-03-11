@@ -12,7 +12,7 @@
         "Id": "Arch-FUGreen-Plasma6",
         "License": "GPLv3",
         "Name": "Arch FU Green Plasma6",
-        "Website": ""
+        "Website": "https://github.com/linesma/Arch-FU-Green"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
     "X-Plasma-APIVersion": "2"
