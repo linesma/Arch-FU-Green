@@ -5,6 +5,8 @@ Download the Zip file.
 
 Extract it.
 
-Copy the resulting folder to ~/.local/share/plasma/look-and-feel/
+Inside that folder, there should be one named Arch-FUGreen-Plasma6
+
+Copy this to ~/.local/share/plasma/look-and-feel/
 
 Open your settings and go to the Splash Screen and Choose it.
